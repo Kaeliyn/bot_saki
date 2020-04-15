@@ -1,0 +1,12 @@
+{
+  "name": "SAKI",
+  "version": "0.1.0",
+  "description": "Projet Bot SAKI for Kaery",
+  "main": "main.js",
+  "repository": "https://github.com/Kaeliyn/bot_saki.git",
+  "author": "Kaeliyn <kaeliyn.slyreia@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
